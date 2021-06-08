@@ -15,7 +15,7 @@
       </button>
     </div>
     <div class="Globe">
-      <a href="https://luduslocus.vercel.app/">
+      <a href="https://ludus-locus.vercel.app/">
         <Globe></Globe>
       </a>
     </div>
