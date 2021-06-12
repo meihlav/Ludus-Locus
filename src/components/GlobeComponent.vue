@@ -99,7 +99,7 @@ h1 {
 }
 .StartedButton {
   background: #5454D4;
-  margin-left: 10vw;
+  margin-left: 15vw;
   width: 250px;
   height: 64px;
   border-radius: 10px;
